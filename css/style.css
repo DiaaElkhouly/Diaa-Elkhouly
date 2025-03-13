@@ -514,7 +514,7 @@ body {
 
     .contact .contact-content .lable,
     .contact .contact-content .link {
-        font-size: 25px;
+        font-size: 23px;
     }
 }
 
@@ -527,7 +527,11 @@ body {
     font-size: 25px;
     padding: 35px 10px;
 }
-
+@media (max-width:767px) {
+    .footer {
+        font-size: 20px;
+    }
+}
 .footer span {
     color: var(--main-color);
     font-weight: 800;
