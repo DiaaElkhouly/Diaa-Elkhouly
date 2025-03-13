@@ -502,11 +502,11 @@ body {
 
 .contact .contact-content .social {
     margin-top: 30px;
-    font-size: 17px;
+    font-size: 16px;
 }
 
 .contact .contact-content .social i {
-    margin-left: 10px;
+    margin-left: 9px;
     color: var(--secondary-color);
 }
 
